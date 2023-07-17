@@ -3,6 +3,11 @@
     width: 80vw;
 }
 }
+@media (min-width: 360px){
+  .form-floating {
+    width: 60vw;
+}
+} 
 
 html, body {
     height: 100vh;
