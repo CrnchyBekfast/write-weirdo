@@ -13,7 +13,7 @@ html, body {
 }
 
 .form-floating {
-    width: 60%;
+    width: 80vw;
     display: flex;
     display: block;
     margin-left: auto;
