@@ -24,7 +24,6 @@ html, body {
 }
 
 .form-floating {
-    width: 60vw;
     display: flex;
     display: block;
     margin-left: auto;
